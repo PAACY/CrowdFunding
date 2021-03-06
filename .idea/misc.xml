@@ -4,6 +4,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file url="file://$PROJECT_DIR$/atguiguCrowdfunding/atguiguCrowdfunding_admin01_webUi/overlays" />
     <file type="web" url="file://$PROJECT_DIR$/atguiguCrowdfunding/atguiguCrowdfunding_admin01_webUi" />
+    <file type="web" url="file://$PROJECT_DIR$/atguiguCrowdfunding/atguiguCrowdfunding_admin02_component" />
+    <file type="web" url="file://$PROJECT_DIR$/atguiguCrowdfunding_admin03_entity" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

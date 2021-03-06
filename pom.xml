@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>atguiguCrowdfunding</module>
+        <module>atguiguCrowdfunding_admin02_component</module>
+        <module>atguiguCrowdfunding_admin03_entity</module>
     </modules>
 
 
