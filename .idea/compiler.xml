@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="atguiguCrowdfunding_common_util" />
+        <module name="atguiguCrowdfunding_common_reserve" />
         <module name="atguiguCrowdfunding_admin03_entity" />
+        <module name="atguiguCrowdfunding_admin01_webUi" />
+        <module name="atguiguCrowdfunding_admin02_component" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="atguiguCrowdfunding_admin01_webUi" target="1.5" />
-      <module name="atguiguCrowdfunding_admin02_component" target="15.0.2" />
-    </bytecodeTargetLevel>
   </component>
 </project>

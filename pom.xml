@@ -12,6 +12,8 @@
         <module>atguiguCrowdfunding</module>
         <module>atguiguCrowdfunding_admin02_component</module>
         <module>atguiguCrowdfunding_admin03_entity</module>
+        <module>atguiguCrowdfunding_common_reserve</module>
+        <module>atguiguCrowdfunding_common_util</module>
     </modules>
 
 
