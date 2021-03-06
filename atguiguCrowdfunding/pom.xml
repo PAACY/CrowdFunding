@@ -12,5 +12,7 @@
     <artifactId>atguiguCrowdfunding</artifactId>
     <packaging>pom</packaging>
 
+    <properties>
 
+    </properties>
 </project>
